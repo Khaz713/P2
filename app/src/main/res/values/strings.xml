@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">AAU Canteen</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="sign_up_button"><u>Sign Up for AAU Canteen</u></string>
+    <string name="sign_in_error">Email or password are incorrect</string>
+    <string name="email_not_verified">Please confirm your email</string>
+    <string name="email_empty">You need to enter an email</string>
+    <string name="password_empty">You need to enter a password</string>
+    <string name="password_wrong">Password must contain at least one letter, at least one number, and be longer than 6 characters.</string>
+    <string name="nickname_empty">You need to enter your nickname</string>
+    <string name="nickname_hint">Nickname</string>
+    <string name="incorrect_email">Only AAU student emails are allowed</string>
+    <string name="lunch_button">Lunch</string>
+    <string name="breakfast_button">Breakfast</string>
+    <string name="gps_button">Select closest canteen</string>
+    <string name="battery_too_low">Battery level too low!</string>
+    <string-array name="spinner_uni">
+        <item>Aalborg</item>
+        <item>Copenhagen</item>
+        <item>Esbjerg</item>
+    </string-array>
+
+    <string-array name="spinner_days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+
+    <string name="drawer_item_menu">Menu</string>
+    <string name="drawer_item_add_meal">Add Meal</string>
+    <string name="drawer_item_make_menu">Configure Menu</string>
+
+    <string name="drawer_item_settings">Settings</string>
+    <string name="drawer_item_sign_out">Sign Out</string>
+    <string name="toolbar_title_choose_menu">Choose Menu</string>
+    <string name="left_arrow"><![CDATA[<-]]></string>
+    <string name="right_arrow"><![CDATA[->]]></string>
+    <string name="is_admin">isAdmin</string>
+    <string name="nickname">First name and last name</string>
+    <string name="settings_wifi">settingsWifi</string>
+
+
+    <string name="RandomValue">t</string>
+    <string name="text1">place holder</string>
+    <string name="TitleAdd">Adding a new Meal or Item</string>
+    <string name="CoButton">Confirm</string>
+    <string name="Cbutton">Gallery</string>
+    <string name="Description">Description</string>
+    <string name="Price">Price</string>
+    <string name="Nameofthemeal">Name of the Meal</string>
+    <string name="MealDescription_menu">dummy</string>
+    <string name="PriceMenu">Price Dkk</string>
+    <string name="MealName">Name of Meal</string>
+    <string name="desMenu">Lurem ipsum Lorem ipsum Lorem ipsum</string>
+    <string name="ar">Post Review</string>
+    <string name="titleReviewAdd">What did you think?</string>
+    <string name="ar1">Write a review</string>
+    <string name="hintForReviewBox">Write here...</string>
+    <string name="newdes">Description placeholder</string>
+    <string name="ratebox">Rate</string>
+    <string name="toolbar_title_add_meal">Add Meal</string>
+    <string name="confirmMenuButton">Confirm</string>
+    <string name="toolbar_title_configure_menu">Configure Menu</string>
+    <string name="toolbar_title_settings">Settings</string>
+    <string name="switch_settings_wifi">Load images only through WiFi</string>
+    <string name="search">Search</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="reset_password">Reset Password</string>
+    <string name="password_email_sent">Password reset email sent</string>
+    <string name="password_email_error">This email does not exist in our database</string>
+    <string name="confMessage">Meal successfully added to the database</string>
+    <string name="cameraButtonTxt">Camera</string>
+    <string name="guideTxt1">Upload image</string>
+    <string name="text_size">20</string>
+
+
+</resources>

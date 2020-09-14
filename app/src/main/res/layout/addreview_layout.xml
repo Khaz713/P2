@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/titleReviewAdd"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused" />
+
+    <EditText
+        android:id="@+id/search"
+        android:layout_width="match_parent"
+        android:layout_height="141dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/edittext_14"
+        android:ems="10"
+        android:gravity="start"
+        android:hint="@string/hintForReviewBox"
+        android:inputType="text"
+        android:padding="10dp" />
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:numStars="5"
+        android:stepSize="1.0"
+        android:rating="2.0" />
+
+</LinearLayout>
